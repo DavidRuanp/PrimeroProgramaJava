@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.util.ArrayList;
 
+// Projeto para cadastrar alunos utilizando Arrays sem tamanho padrão definido
 public class Main {
     public static void main(String[] args) {
         int numeroCadastro;
